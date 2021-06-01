@@ -25,7 +25,7 @@ services:
 volumes:
   nopcommerce_data:
 ```
-Step 3: Tắt VPN OSD (do restore package sẽ bị chặn và không restore được), mở cmd tại thư mục chứa file docker-compose.yml, gõ lệnh sau:
+Step 3: Tắt VPN OSD (do restore package có thể sẽ bị chặn và không restore được), mở cmd tại thư mục chứa file docker-compose.yml, gõ lệnh sau:
 ```
 docker compose up -d
 ```
