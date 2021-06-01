@@ -29,7 +29,7 @@ Step 3: Tắt VPN OSD (do restore package sẽ bị chặn và không restore đ
 ```
 docker compose up -d
 ```
-Step 4: Mở browser gõ truy cập http://localhost/
+Step 4: Mở browser truy cập http://localhost/  
 Step 5: Điền các field như sau
 ![alt text](https://github.com/NhanTranOrient/nop-docker/blob/main/1.png)
 Step 6: Sau khi setup docker image tự động stop => run lại image =>  truy cập http://localhost/
