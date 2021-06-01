@@ -33,3 +33,9 @@ Step 4: Mở browser gõ truy cập http://localhost/
 Step 5: Điền các field như sau
 ![alt text](https://github.com/NhanTranOrient/nop-docker/blob/main/1.png)
 Step 6: Sau khi setup docker image tự động stop => run lại image =>  http://localhost/
+
+## Optional
+Nếu có MSSQL Management Studio có thể connect tới Server thông qua:  
+ServerName: localhost,14330  
+Login: sa  
+Password: nopCommerce_db_password
