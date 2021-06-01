@@ -35,7 +35,7 @@ Step 5: Điền các field như sau
 Step 6: Sau khi setup docker image tự động stop => run lại image =>  http://localhost/
 
 ## Optional
-Nếu có MSSQL Management Studio có thể connect tới Server thông qua:  
+Nếu có MSSQL Management Studio và muốn thực hiện query truy vấn, có thể connect tới Server thông qua:  
 ServerName: localhost,14330  
 Login: sa  
 Password: nopCommerce_db_password
