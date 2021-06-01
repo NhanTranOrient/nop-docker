@@ -32,7 +32,7 @@ docker compose up -d
 Step 4: Mở browser gõ truy cập http://localhost/
 Step 5: Điền các field như sau
 ![alt text](https://github.com/NhanTranOrient/nop-docker/blob/main/1.png)
-Step 6: Sau khi setup docker image tự động stop => run lại image =>  http://localhost/
+Step 6: Sau khi setup docker image tự động stop => run lại image =>  truy cập http://localhost/
 
 ## Optional
 Nếu có MSSQL Management Studio và muốn thực hiện query truy vấn, có thể connect tới Server thông qua:  
